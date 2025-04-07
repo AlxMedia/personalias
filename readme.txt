@@ -8,7 +8,7 @@ Tags: blog, one-column, two-columns, right-sidebar, left-sidebar, custom-colors,
 
 == Description ==
 
-Personalias is a flexible blog and magazine theme with plenty of options. The blog has a unique layout and design with sticky images to the left, which gives a visually beautiful look. You can pick header/footer color, set sidebar to the left or right and choose website max-width with a few clicks. Demo: http://demo.alx.media/x/?theme=Personalias
+Personalias is a flexible blog and magazine theme with plenty of options. The blog has a unique layout and design with sticky images to the left, which gives a visually beautiful look. You can pick header/footer color, set sidebar to the left or right and choose website max-width with a few clicks. Demo: https://demo.agnarson.com/?theme=Personalias
 
 == Installation ==
 
@@ -19,7 +19,7 @@ Personalias is a flexible blog and magazine theme with plenty of options. The bl
 
 == Documentation ==
 
-http://alx.media/documentation/
+https://agnarson.com/documentation/
 
 == Copyright ==
 
